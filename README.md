@@ -44,7 +44,7 @@ A powerful GPS tracking tool for educational purposes, location monitoring, and 
 ---
 
 ## 🚀 Clone and Run
-git clone https://github.com/Cyberxjn/gps-tracker-tool.git
+git clone https://github.com/Cyberxjn/GPS_tracker.git
 cd gps-tracker-tool
 pip install -r requirements.txt
 python termux_gps.py
@@ -55,5 +55,7 @@ python termux_gps.py
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Cyberxjn/gps-tracker-tool.git
-cd gps-tracker-tool
+cd GPS_tracker
+-- TO RUN
+GPS_tracker.py
 
