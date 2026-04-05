@@ -54,7 +54,7 @@ python termux_gps.py
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Cyberxjn/gps-tracker-tool.git
+git clone https://github.com/Cyberxjn/gps-tracker.git
 cd GPS_tracker
 -- TO RUN
 GPS_tracker.py
